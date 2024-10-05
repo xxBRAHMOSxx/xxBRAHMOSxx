@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web application<br>🌱 I’m currently learning web3/blockchain<br>💬 Ask me about React and Node<br>⚡ Fun fact I like gamming so does everyone
+Hello👋! I am Devansh kumar.<br> 🔭 I’m a web application developer<br>🌱 I’m currently learning web3/blockchain while also improving my web dev skills<br>💬 Ask me about React and Node<br>⚡ Fun fact I like gamming, so does everyone
 
 
 ## 🌐 Socials:
