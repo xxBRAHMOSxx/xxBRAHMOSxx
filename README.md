@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img align="right" height="150" src="https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif"  />
-Hello👋! I am Devansh kumar.<br> 🔭 I’m a web application developer<br>🌱 I’m currently learning web3/blockchain while also improving my web dev skills<br>💬 Ask me about React and Node<br>⚡ Fun fact I like gamming, so does everyone
+Hello👋! I am Devansh kumar .<br> 🔭 I’m a web application developer<br>🌱 I’m currently learning web3/blockchain while also improving my web dev skills<br>💬 Ask me about React and Node<br>⚡ Fun fact I like gamming, so does everyone
 
 
 ## 🌐 Socials:
