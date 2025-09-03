@@ -3,7 +3,6 @@
 Devansh kumar Here <br>
 🔭 I’m a web application developer<br>🌱 I’m currently learning nextjs while also improving my web dev skills<br>💬 Ask me about React and Node<br>⚡ Fun fact I like gamming, so does everyone
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshkumar821075257) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Devansh44693342) 
 
